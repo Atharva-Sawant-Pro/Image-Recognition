@@ -1,0 +1,18 @@
+body{
+    background: red;
+    color: black;
+    
+}
+.heading{
+    width: 80%;
+    font-size:50px;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed rgb(0, 0, 0);
+}
+.Name_Of_Objects,#result_o_name,#name_o_accuracy{
+    color: darkorange;
+    font-size: xx-large;
+}
